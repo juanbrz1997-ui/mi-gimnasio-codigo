@@ -1,4 +1,4 @@
-#Mi Gimnasio de código por Meta
+# Mi Gimnasio de código por Meta
 Mi primer repo practicando Git avanzado: branches, merges, conflictos y GitHub.
 
 Aprendi hoy:
